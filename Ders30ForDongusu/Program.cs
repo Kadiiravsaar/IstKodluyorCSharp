@@ -14,7 +14,31 @@ while (number>=0)
     number--;
 }
 
+#endregion
 
+
+#region Ders 32 do While
+
+int num1 = 10;
+do
+{
+    Console.WriteLine(num1);
+    num1--;
+} while (num1>=11);
+
+
+#endregion
+
+
+
+#region Ders 33 Foreach
+
+string[] students = new string[] { "Kadir", "Engin" };
+
+foreach (var student in students)
+{
+    Console.WriteLine(student);
+}
 
 
 #endregion
