@@ -14,8 +14,7 @@
 
 #region Metot overload
 Overload overload = new Overload();
-var sum1 = overload.AddNumbers(10, 20);
-Console.WriteLine(sum1);
+Console.WriteLine(overload.AddNumbers(10, 20));
 
 
 
