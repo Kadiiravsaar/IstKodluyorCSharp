@@ -17,7 +17,7 @@ Console.WriteLine(String.Format("{0} {1}", city, city2));
 string sentence = "My name is Kadir Avsar";
 var result2 = sentence.Length;
 
-var result3 = sentence.Clone(); // bir referansını daha oluşturmaya yarar
+var result3 = sentence.Clone(); //  bir referansını daha oluşturmaya yarar
 
 var result4 = sentence.EndsWith("G"); // cümle sonucu bool döner
 
