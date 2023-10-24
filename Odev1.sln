@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders26MethodOverloading", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders28Arrays", "Ders28Arrays\Ders28Arrays.csproj", "{F6991E2B-C6FB-42F6-9A5F-B70B3D3A1249}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders29CokBoyutluDiziler", "Ders29CokBoyutluDiziler\Ders29CokBoyutluDiziler.csproj", "{EBB60451-5243-472F-8740-E11E5CCE6B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders30ForDongusu", "Ders30ForDongusu\Ders30ForDongusu.csproj", "{12363908-E2B6-4AF7-988C-6DD8F639921E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{F6991E2B-C6FB-42F6-9A5F-B70B3D3A1249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6991E2B-C6FB-42F6-9A5F-B70B3D3A1249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6991E2B-C6FB-42F6-9A5F-B70B3D3A1249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB60451-5243-472F-8740-E11E5CCE6B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB60451-5243-472F-8740-E11E5CCE6B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB60451-5243-472F-8740-E11E5CCE6B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB60451-5243-472F-8740-E11E5CCE6B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12363908-E2B6-4AF7-988C-6DD8F639921E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12363908-E2B6-4AF7-988C-6DD8F639921E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12363908-E2B6-4AF7-988C-6DD8F639921E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12363908-E2B6-4AF7-988C-6DD8F639921E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
