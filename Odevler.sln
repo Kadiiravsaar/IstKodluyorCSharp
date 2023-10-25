@@ -25,17 +25,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders24Refkeyword", "Ders24R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders25Out", "Ders25Out\Ders25Out.csproj", "{C8377975-A578-475B-89B5-BA8579F14B6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders26MethodOverloading", "Ders26MethodOverloading\Ders26MethodOverloading.csproj", "{D9CB5913-DE74-45CA-8D45-FCAA6D300E61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders26MethodOverloading", "Ders26MethodOverloading\Ders26MethodOverloading.csproj", "{D9CB5913-DE74-45CA-8D45-FCAA6D300E61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders28Arrays", "Ders28Arrays\Ders28Arrays.csproj", "{F6991E2B-C6FB-42F6-9A5F-B70B3D3A1249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders28Arrays", "Ders28Arrays\Ders28Arrays.csproj", "{F6991E2B-C6FB-42F6-9A5F-B70B3D3A1249}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders29CokBoyutluDiziler", "Ders29CokBoyutluDiziler\Ders29CokBoyutluDiziler.csproj", "{EBB60451-5243-472F-8740-E11E5CCE6B42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders29CokBoyutluDiziler", "Ders29CokBoyutluDiziler\Ders29CokBoyutluDiziler.csproj", "{EBB60451-5243-472F-8740-E11E5CCE6B42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders30ForDongusu", "Ders30ForDongusu\Ders30ForDongusu.csproj", "{12363908-E2B6-4AF7-988C-6DD8F639921E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders30ForDongusu", "Ders30ForDongusu\Ders30ForDongusu.csproj", "{12363908-E2B6-4AF7-988C-6DD8F639921E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders34AsalSayi", "Ders34AsalSayi\Ders34AsalSayi.csproj", "{227FB593-880B-42A5-B198-11CE1D320E45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders34AsalSayi", "Ders34AsalSayi\Ders34AsalSayi.csproj", "{227FB593-880B-42A5-B198-11CE1D320E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders35String", "Ders35String\Ders35String.csproj", "{BD51CED6-FEC7-4588-A283-F8200556CE19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders35String", "Ders35String\Ders35String.csproj", "{BD51CED6-FEC7-4588-A283-F8200556CE19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odev2", "Odev2", "{2185615A-FD2E-4CB0-8583-B46E2D77A947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders37Class", "Ders37Class\Ders37Class.csproj", "{6511D8E3-6C8F-4075-93F4-625491E8715E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,9 +115,16 @@ Global
 		{BD51CED6-FEC7-4588-A283-F8200556CE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD51CED6-FEC7-4588-A283-F8200556CE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD51CED6-FEC7-4588-A283-F8200556CE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6511D8E3-6C8F-4075-93F4-625491E8715E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6511D8E3-6C8F-4075-93F4-625491E8715E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6511D8E3-6C8F-4075-93F4-625491E8715E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6511D8E3-6C8F-4075-93F4-625491E8715E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6511D8E3-6C8F-4075-93F4-625491E8715E} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6F4951FA-C8F4-4486-97BA-9587BA971CBF}
