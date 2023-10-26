@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders43GercekHayattaInterfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders45CokluImlementasyon", "Ders45CokluImlementasyon\Ders45CokluImlementasyon.csproj", "{FE50BE72-A13D-4844-BF14-45A5108736E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders46Kalitim", "Ders46Kalitim\Ders46Kalitim.csproj", "{1DB67BF7-1FFF-4D0C-9F34-C3FCDB79168A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{FE50BE72-A13D-4844-BF14-45A5108736E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE50BE72-A13D-4844-BF14-45A5108736E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE50BE72-A13D-4844-BF14-45A5108736E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB67BF7-1FFF-4D0C-9F34-C3FCDB79168A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB67BF7-1FFF-4D0C-9F34-C3FCDB79168A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB67BF7-1FFF-4D0C-9F34-C3FCDB79168A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB67BF7-1FFF-4D0C-9F34-C3FCDB79168A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -160,6 +166,7 @@ Global
 		{0EB74834-1718-4CB7-AB0B-2D028588E388} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 		{4758FDB0-7584-467B-8A80-9101D5E670B3} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 		{FE50BE72-A13D-4844-BF14-45A5108736E9} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
+		{1DB67BF7-1FFF-4D0C-9F34-C3FCDB79168A} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6F4951FA-C8F4-4486-97BA-9587BA971CBF}
