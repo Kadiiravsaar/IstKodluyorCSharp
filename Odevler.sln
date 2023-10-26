@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders37Class", "Ders37Class\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders38Encapsulation", "Ders38Encapsulation\Ders38Encapsulation.csproj", "{A6280C1C-1594-445F-92AC-2F7EB277486D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders40RecapDemo", "Ders40RecapDemo\Ders40RecapDemo.csproj", "{8DC0D7D0-6DE8-4089-8653-67594F4A7159}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{A6280C1C-1594-445F-92AC-2F7EB277486D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6280C1C-1594-445F-92AC-2F7EB277486D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6280C1C-1594-445F-92AC-2F7EB277486D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC0D7D0-6DE8-4089-8653-67594F4A7159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC0D7D0-6DE8-4089-8653-67594F4A7159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC0D7D0-6DE8-4089-8653-67594F4A7159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC0D7D0-6DE8-4089-8653-67594F4A7159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +138,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6511D8E3-6C8F-4075-93F4-625491E8715E} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 		{A6280C1C-1594-445F-92AC-2F7EB277486D} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
+		{8DC0D7D0-6DE8-4089-8653-67594F4A7159} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6F4951FA-C8F4-4486-97BA-9587BA971CBF}
