@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders40RecapDemo", "Ders40Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders41Interfaces", "Ders41Interfaces\Ders41Interfaces.csproj", "{0EB74834-1718-4CB7-AB0B-2D028588E388}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders43GercekHayattaInterface", "Ders43GercekHayattaInterface\Ders43GercekHayattaInterface.csproj", "{4758FDB0-7584-467B-8A80-9101D5E670B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +139,10 @@ Global
 		{0EB74834-1718-4CB7-AB0B-2D028588E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EB74834-1718-4CB7-AB0B-2D028588E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EB74834-1718-4CB7-AB0B-2D028588E388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4758FDB0-7584-467B-8A80-9101D5E670B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4758FDB0-7584-467B-8A80-9101D5E670B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4758FDB0-7584-467B-8A80-9101D5E670B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4758FDB0-7584-467B-8A80-9101D5E670B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,6 +152,7 @@ Global
 		{A6280C1C-1594-445F-92AC-2F7EB277486D} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 		{8DC0D7D0-6DE8-4089-8653-67594F4A7159} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 		{0EB74834-1718-4CB7-AB0B-2D028588E388} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
+		{4758FDB0-7584-467B-8A80-9101D5E670B3} = {2185615A-FD2E-4CB0-8583-B46E2D77A947}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6F4951FA-C8F4-4486-97BA-9587BA971CBF}
